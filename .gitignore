@@ -1,5 +1,11 @@
+############################
+## Unreal Generated Files ##
+############################
 HappyMed/Intermediate/
 HappyMed/Saved/
 */Binaries
 */Build
 */DerivedDataCache
+*_BuiltData.uasset
+HappyMed/Content/StarterContent/
+*.db
